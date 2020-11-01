@@ -6,8 +6,8 @@ html{
     height:100%;
 }
 #content{
-    margin: 0 auto;
-    position: relative;
+  margin: 0 auto;
+  position: relative;
   text-align: center;
   color: white;
 }
@@ -20,14 +20,8 @@ img{
     top: 46%;
     left: 63%;
     transform: translate(-50%, -50%);
-  }
-button{
-    border: none;
-    background-color: transparent;
 }
 a{
     padding: 1vh 1vh;
-    /* height: 5px;
-    width: 5px; */
-    background-color: #232452;
+    background-color: transparent;
 }
